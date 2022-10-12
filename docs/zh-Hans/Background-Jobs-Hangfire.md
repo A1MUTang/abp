@@ -40,7 +40,7 @@ public class YourModule : AbpModule
 
 ## 配置
 
-你可以安装任何Hangfire存储. 最常用的是SQL Server(参阅[Hangfire.SqlServer](https://www.nuget.org/packages/Hangfire.SqlServer)NuGet包).
+你可以安装任何Hangfire存储. 最常用的是SQL Server(参阅[Hangfire.SqlServer]((https://www.nuget.org/packages/Hangfire.AspNetCore/1.7.29))NuGet包).
 
 当你安装NuGet包后,你需要为你的项目配置Hangfire.
 
